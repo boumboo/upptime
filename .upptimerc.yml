@@ -7,7 +7,8 @@ sites:
     url: https://backu.fr
   - name: backu.net
     url: backu.net
-
+status-website:
+  baseUrl: /upptime # "repo" is your repository name
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
