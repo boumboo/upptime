@@ -5,7 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
-
+  - name: Backu.fr
+    url: https://backu.fr
+  - name: Backu.net
+    url: https://backu.net
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
