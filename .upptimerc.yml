@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: backu.fr
-    url: https://www.backu.fr
+    url: https://backu.fr
   - name: backu.net
-    url: https://www.backu.net
+    url: https://backu.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
