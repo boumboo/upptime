@@ -12,6 +12,8 @@
 # * Source: https://github.com/upptime/upptime
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
+
+
 name: Uptime CI
 on:
   schedule:
@@ -33,6 +35,9 @@ jobs:
         uses: upptime/uptime-monitor@v1.36.4
         with:
           command: "update"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          SECRETS_CONTEXT: ${{ toJson(secrets) }}
 - name: Actions Ntfy
   run: |
     curl \
