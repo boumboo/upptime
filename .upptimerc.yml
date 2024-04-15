@@ -25,11 +25,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-- name: Actions Ntfy
-  run: |
-    curl \
-      -u :tk_e7m25ztq5x2zmnm87y0m2fgwc5y65 \
-      -H "Title: Title here" \
-      -H "Content-Type: text/plain" \
-      -d $'Repo: ${{ github.repository }}\nCommit: ${{ github.sha }}\nRef: ${{ github.ref }}\nStatus: ${{ job.status}}' \
-      ntfy.backu.fr/95h3E01oEdQeZzGe
+- name: Actions Start Ntfy
+        run: |
+          curl \
+            -u ${{ secrets.tk_e7m25ztq5x2zmnm87y0m2fgwc5y65 }} \
+            -H "Title: Build status" \
+            -H "Content-Type: text/plain" \
+            -d $'Repo: ${{ github.repository }}\nCommit: ${{ github.sha }}\nRef: ${{ github.ref }}\nStatus: ${{ job.status }}\nWorkflow started' \
+            ${{ secrets.ntfy.backu.fr }}
