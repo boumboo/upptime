@@ -35,6 +35,13 @@ jobs:
         uses: upptime/uptime-monitor@v1.36.4
         with:
           command: "update"
+          - name: Actions Ntfy
+  run: |
+    curl \
+      -u ${{ secrets.NTFY_CRED }} \
+      -H "Title: Title here" \
+      -H "Content-Type: text/plain" \
+      -d $'Repo: ${{ github.repository }}\nCommit: ${{ github.sha }}\nRef: ${{ github.ref }}\nStatus: ${{ job.status}}' \
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
