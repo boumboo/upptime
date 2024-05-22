@@ -22,7 +22,7 @@
     "url": "https://backu.fr",
     "icon": "https://icons.duckduckgo.com/ip3/backu.fr.ico",
     "slug": "backu-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 732,
     "timeYear": 713,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-04-27": 237,
       "2024-04-24": 32
     }
