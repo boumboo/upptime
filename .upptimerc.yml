@@ -3,10 +3,6 @@ owner: boumboo # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: hen.usbx.me
-    url: https://hen.usbx.me    
   - name: Backu.fr
     url: https://backu.fr
   - name: Backu.net
