@@ -1,43 +1,5 @@
 [
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 167,
-    "timeWeek": 247,
-    "timeMonth": 262,
-    "timeYear": 218,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "hen.usbx.me",
-    "url": "https://hen.usbx.me",
-    "icon": "https://icons.duckduckgo.com/ip3/hen.usbx.me.ico",
-    "slug": "hen-usbx-me",
-    "status": "down",
-    "uptime": "4.86%",
-    "uptimeDay": "4.86%",
-    "uptimeWeek": "4.86%",
-    "uptimeMonth": "4.86%",
-    "uptimeYear": "4.86%",
-    "time": 370,
-    "timeDay": 370,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 370,
-    "dailyMinutesDown": {
-      "2024-07-16": 0
-    }
-  },
-  {
     "name": "Backu.fr",
     "url": "https://backu.fr",
     "icon": "https://icons.duckduckgo.com/ip3/backu.fr.ico",
@@ -48,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
-    "time": 718,
-    "timeDay": 502,
-    "timeWeek": 672,
-    "timeMonth": 724,
-    "timeYear": 718,
+    "time": 717,
+    "timeDay": 553,
+    "timeWeek": 661,
+    "timeMonth": 720,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2024-06-06": 54,
       "2024-05-22": 369,
@@ -71,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 642,
-    "timeWeek": 790,
-    "timeMonth": 838,
-    "timeYear": 906,
+    "time": 904,
+    "timeDay": 675,
+    "timeWeek": 777,
+    "timeMonth": 834,
+    "timeYear": 904,
     "dailyMinutesDown": {}
   }
 ]
