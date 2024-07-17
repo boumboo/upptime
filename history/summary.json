@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
-    "time": 718,
-    "timeDay": 652,
-    "timeWeek": 657,
-    "timeMonth": 714,
-    "timeYear": 718,
+    "time": 717,
+    "timeDay": 658,
+    "timeWeek": 660,
+    "timeMonth": 713,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2024-06-06": 54,
       "2024-05-22": 369,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 768,
-    "timeWeek": 755,
-    "timeMonth": 829,
-    "timeYear": 903,
+    "time": 951,
+    "timeDay": 1757,
+    "timeWeek": 1375,
+    "timeMonth": 987,
+    "timeYear": 951,
     "dailyMinutesDown": {}
   },
   {
@@ -51,14 +51,34 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 469,
-    "timeDay": 469,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "time": 465,
+    "timeDay": 465,
+    "timeWeek": 465,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {
-      "2024-07-17": 1059,
+      "2024-07-17": 1063,
       "2024-07-16": 75
+    }
+  },
+  {
+    "name": "test",
+    "url": "https://blkoghlkmjjhougdfqmbozeqasdffo.com",
+    "icon": "https://icons.duckduckgo.com/ip3/blkoghlkmjjhougdfqmbozeqasdffo.com.ico",
+    "slug": "test",
+    "status": "down",
+    "uptime": "7.51%",
+    "uptimeDay": "7.51%",
+    "uptimeWeek": "7.51%",
+    "uptimeMonth": "7.51%",
+    "uptimeYear": "7.51%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-17": 0
     }
   }
 ]
