@@ -7,10 +7,6 @@ sites:
     url: https://backu.fr
   - name: Backu.net
     url: https://backu.net
-  - name: hen.usbx.me
-    url: https://hen.usbx.me
-  - name: test
-    url: https://blkoghlkmjjhougdfqmbozeqasdffo.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain#
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
