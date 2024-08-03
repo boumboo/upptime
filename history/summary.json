@@ -28,7 +28,7 @@
     "url": "https://backu.net",
     "icon": "https://icons.duckduckgo.com/ip3/backu.net.ico",
     "slug": "backu-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,8 @@
     "timeWeek": 748,
     "timeMonth": 1021,
     "timeYear": 936,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-03": 0
+    }
   }
 ]
