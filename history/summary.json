@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 997,
     "dailyMinutesDown": {
-      "2025-11-22": 1226,
+      "2025-11-22": 1242,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -126,7 +126,7 @@
     "url": "https://backu.net",
     "icon": "https://icons.duckduckgo.com/ip3/backu.net.ico",
     "slug": "backu-net",
-    "status": "up",
+    "status": "down",
     "uptime": "79.60%",
     "uptimeDay": "94.03%",
     "uptimeWeek": "99.15%",
