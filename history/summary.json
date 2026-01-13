@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backu.fr.ico",
     "slug": "backu-fr",
     "status": "down",
-    "uptime": "77.45%",
+    "uptime": "77.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.38%",
+    "uptimeYear": "61.11%",
     "time": 949,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1013,
+    "timeYear": 1014,
     "dailyMinutesDown": {
-      "2026-01-12": 141,
+      "2026-01-13": 126,
+      "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
@@ -168,8 +169,7 @@
       "2025-04-08": 80,
       "2025-04-07": 6,
       "2025-03-27": 49,
-      "2025-01-15": 507,
-      "2025-01-13": 655
+      "2025-01-15": 507
     }
   },
   {
@@ -178,15 +178,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/backu.net.ico",
     "slug": "backu-net",
     "status": "up",
-    "uptime": "81.20%",
+    "uptime": "81.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 412,
-    "timeDay": 630,
-    "timeWeek": 492,
-    "timeMonth": 444,
+    "timeDay": 348,
+    "timeWeek": 466,
+    "timeMonth": 436,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2025-11-22": 119
