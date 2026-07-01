@@ -4,17 +4,17 @@
     "url": "https://ha.backu.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ha.backu.fr.ico",
     "slug": "backu-fr",
-    "status": "down",
-    "uptime": "78.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "53.85%",
-    "time": 913,
-    "timeDay": 1961,
-    "timeWeek": 925,
-    "timeMonth": 696,
-    "timeYear": 865,
+    "status": "up",
+    "uptime": "78.54%",
+    "uptimeDay": "71.39%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "53.77%",
+    "time": 912,
+    "timeDay": 1500,
+    "timeWeek": 886,
+    "timeMonth": 693,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-07-05": 398,
       "2025-07-04": 83,
@@ -194,7 +194,8 @@
       "2026-03-21": 5,
       "2026-04-07": 335,
       "2026-04-26": 47,
-      "2026-06-10": 233
+      "2026-06-10": 233,
+      "2026-07-01": 412
     }
   },
   {
